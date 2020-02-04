@@ -7,7 +7,7 @@
       "failed": 0
    },
    "hits": {
-      "total": 30111166,
+      "total": 0,
       "max_score": 0,
       "hits": []
    },
@@ -17,9 +17,9 @@
          "sum_other_doc_count": 0,
          "buckets": [
            {"key":"AU","doc_count":12} ,
-            {"key":"KH","doc_count":1}  ,
-             {"key":"CA","doc_count":4} ,
-             {"key":"CN","doc_count":285767} ,
+           {"key":"KH","doc_count":1}  ,
+           {"key":"CA","doc_count":4} ,
+           {"key":"CN","doc_count":285767} ,
                {"key":"FI","doc_count":1} ,
                 {"key":"FR","doc_count":6} ,
                  {"key":"DE","doc_count":10} ,
