@@ -7,7 +7,7 @@
     "failed": 0
   },
   "hits": {
-    "total": 571748,
+    "total": 20683,
     "max_score": 0,
     "hits": []
   },
@@ -30,7 +30,7 @@
         },
         {
           "key": "CHN",
-          "doc_count": 285767
+          "doc_count": 20530
         },
         {
           "key": "FIN",
