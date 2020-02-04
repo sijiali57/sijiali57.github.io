@@ -1,46 +1,118 @@
 {
-   "took": 492,
-   "timed_out": false,
-   "_shards": {
-      "total": 5,
-      "successful": 3,
-      "failed": 0
-   },
-   "hits": {
-      "total": 0,
-      "max_score": 0,
-      "hits": []
-   },
-   "aggregations": {
-      "world_map": {
-         "doc_count_error_upper_bound": 0,
-         "sum_other_doc_count": 0,
-         "buckets": [
-           {"key":"AU","doc_count":12} ,
-           {"key":"KH","doc_count":1}  ,
-           {"key":"CA","doc_count":4} ,
-           {"key":"CN","doc_count":285767} ,
-               {"key":"FI","doc_count":1} ,
-                {"key":"FR","doc_count":6} ,
-                 {"key":"DE","doc_count":10} ,
-                   {"key":"IN","doc_count":2} ,
-                   {"key":"IT","doc_count":2} ,
-                    {"key":"JP","doc_count":20} ,
-                     {"key":"MY","doc_count":8} ,
-                     {"key":"MN","doc_count":20} ,
-                     {"key":"NP","doc_count":1} ,
-                     {"key":"PH","doc_count":2} ,
-                     {"key":"RU","doc_count":2} ,
-                     {"key":"SG","doc_count":18} ,
-                     {"key":"ES","doc_count":1} ,
-                     {"key":"LK","doc_count":1} ,
-                     {"key":"SE","doc_count":1} ,
-                     {"key":"TH","doc_count":19} ,
-                      {"key":"AE","doc_count":5} ,
-                      {"key":"GB","doc_count":2} ,
-                       {"key":"US","doc_count":9} ,
-                        {"key":"VN","doc_count":6}
-         ]
-      }
-   }
+  "took": 32,
+  "timed_out": false,
+  "_shards": {
+    "total": 5,
+    "successful": 3,
+    "failed": 0
+  },
+  "hits": {
+    "total": 571748,
+    "max_score": 0,
+    "hits": []
+  },
+  "aggregations": {
+    "world_map": {
+      "doc_count_error_upper_bound": 0,
+      "sum_other_doc_count": 0,
+      "buckets": [
+        {
+          "key": "AU",
+          "doc_count": 12
+        },
+        {
+          "key": "KH",
+          "doc_count": 1
+        },
+        {
+          "key": "CA",
+          "doc_count": 4
+        },
+        {
+          "key": "CN",
+          "doc_count": 285767
+        },
+        {
+          "key": "FI",
+          "doc_count": 1
+        },
+        {
+          "key": "FR",
+          "doc_count": 6
+        },
+        {
+          "key": "DE",
+          "doc_count": 10
+        },
+        {
+          "key": "IN",
+          "doc_count": 2
+        },
+        {
+          "key": "IT",
+          "doc_count": 2
+        },
+        {
+          "key": "JP",
+          "doc_count": 20
+        },
+        {
+          "key": "MY",
+          "doc_count": 8
+        },
+        {
+          "key": "MN",
+          "doc_count": 20
+        },
+        {
+          "key": "NP",
+          "doc_count": 1
+        },
+        {
+          "key": "PH",
+          "doc_count": 2
+        },
+        {
+          "key": "RU",
+          "doc_count": 2
+        },
+        {
+          "key": "SG",
+          "doc_count": 18
+        },
+        {
+          "key": "ES",
+          "doc_count": 1
+        },
+        {
+          "key": "LK",
+          "doc_count": 1
+        },
+        {
+          "key": "SE",
+          "doc_count": 1
+        },
+        {
+          "key": "TH",
+          "doc_count": 19
+        },
+        {
+          "key": "AE",
+          "doc_count": 5
+        },
+        {
+          "key": "GB",
+          "doc_count": 2
+        },
+        {
+          "key": "US",
+          "doc_count": 9
+        },
+        {
+          "key": "VN",
+          "doc_count": 6
+        }
+      ]
+    }
+  }
 }
