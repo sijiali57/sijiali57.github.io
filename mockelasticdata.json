@@ -17,23 +17,23 @@
       "sum_other_doc_count": 0,
       "buckets": [
         {
-          "key": "AU",
+          "key": "AUS",
           "doc_count": 12
         },
         {
-          "key": "KH",
+          "key": "KHM",
           "doc_count": 1
         },
         {
-          "key": "CA",
+          "key": "CAN",
           "doc_count": 4
         },
         {
-          "key": "CN",
+          "key": "CHN",
           "doc_count": 285767
         },
         {
-          "key": "FI",
+          "key": "FIN",
           "doc_count": 1
         },
         {
@@ -41,19 +41,19 @@
           "doc_count": 6
         },
         {
-          "key": "DE",
+          "key": "DEU",
           "doc_count": 10
         },
         {
-          "key": "IN",
+          "key": "IND",
           "doc_count": 2
         },
         {
-          "key": "IT",
+          "key": "ITA",
           "doc_count": 2
         },
         {
-          "key": "JP",
+          "key": "JPN",
           "doc_count": 20
         },
         {
@@ -61,19 +61,19 @@
           "doc_count": 8
         },
         {
-          "key": "MN",
+          "key": "MNG",
           "doc_count": 20
         },
         {
-          "key": "NP",
+          "key": "NPL",
           "doc_count": 1
         },
         {
-          "key": "PH",
+          "key": "PHL",
           "doc_count": 2
         },
         {
-          "key": "RU",
+          "key": "RUS",
           "doc_count": 2
         },
         {
@@ -81,35 +81,35 @@
           "doc_count": 18
         },
         {
-          "key": "ES",
+          "key": "ESP",
           "doc_count": 1
         },
         {
-          "key": "LK",
+          "key": "LKA",
           "doc_count": 1
         },
         {
-          "key": "SE",
+          "key": "SWE",
           "doc_count": 1
         },
         {
-          "key": "TH",
+          "key": "THA",
           "doc_count": 19
         },
         {
-          "key": "AE",
+          "key": "ARE",
           "doc_count": 5
         },
         {
-          "key": "GB",
+          "key": "GBR",
           "doc_count": 2
         },
         {
-          "key": "US",
+          "key": "USA",
           "doc_count": 9
         },
         {
-          "key": "VN",
+          "key": "VNM",
           "doc_count": 6
         }
       ]
